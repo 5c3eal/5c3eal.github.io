@@ -29,12 +29,7 @@
 <blockquote>
 <p>ipfs help<br>USAGE:<br>ipfs - Global p2p merkle-dag filesystem.</p>
 </blockquote>
-<h4 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h4><p>在官网下载对应安装包</p>
-<p>当你下载好安装包之后，解压并将 ipfs.exe 拷贝到可执行的路径上。</p>
-<p>测试一下&#x3D;￣ω￣&#x3D;:</p>
-<blockquote>
-<p>ipfs help<br>USAGE:<br>ipfs - Global p2p merkle-dag filesystem.<br>…</p>
-</blockquote>
+<h4 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h4><p>在官网下载对应安装包,点击安装包进行安装就可以了。</p>
 <h3 id="IPFS-浏览器扩展"><a href="#IPFS-浏览器扩展" class="headerlink" title="IPFS 浏览器扩展"></a>IPFS 浏览器扩展</h3><p>IPFS Companion 是可用于 Chrome, Edge, Brave, Firefox 和 Opera 的网络浏览器插件。</p>
 <p>它可以让你在浏览器中与 IPFS 桌面和你安装的 IPFS 节点进行交互。它还为不支持 <code>ipfs://</code> 的浏览器添加了支持。</p>
 <p><a href="https://addons.mozilla.org/zh-CN/firefox/addon/ipfs-companion/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">Firefox</a><br><a href="https://chromewebstore.google.com/detail/ipfs-%E4%BC%B4%E4%BE%A3/nibjojkomfdiaoajekhjakgkdhaomnch">Chrome 插件页面</a></p>
