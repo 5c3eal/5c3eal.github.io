@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blanka</title>
-  <icon>http://example.com/themes/butterfly/source/img/rss-solid.svg</icon>
+  <icon>https://rss.com/blog/wp-content/uploads/2019/10/social_style_3_rss-512-1.png</icon>
   <subtitle>La vivo estas mirakl 💫</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
